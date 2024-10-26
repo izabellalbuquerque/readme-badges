@@ -7,7 +7,13 @@ Este repositório contém uma coleção de badges representando várias tecnolog
 Para adicionar esses badges a um README, siga os passos abaixo:
 
 1. **Copie o link**: Utilize as URLs abaixo para incluir os badges em seu README:
-2. **Cole o código no README.md**: Abra o arquivo README.md do projeto e cole o código onde deseja que os badges apareçam.
+2. **Cole o código no README.md**: Abra o arquivo README.md do projeto e cole o código onde deseja que os badges apareçam. 
+Exemplo: 
+```html
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+```
+
 3. **Salve e visualize**: Salve as alterações e visualize o README no GitHub para ver os badges em ação.
 
 Esses badges ajudam a comunicar rapidamente as tecnologias conhecidas, proporcionando uma apresentação visualmente atraente do perfil.
