@@ -195,3 +195,69 @@ Esses badges ajudam a comunicar rapidamente as tecnologias conhecidas, proporcio
 | IntelliJ               | ![IntelliJ](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000)             | https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000                             |
 | Visual Studio Code     | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) | https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC         |
 
+### Badges de Contagem de Visitas
+
+#### Como Utilizar
+
+Para usar os badges de contagem de visitas, você precisa substituir o `izabellalbuquerque` pelo seu nome de usuário do GitHub nas URLs fornecidas. 
+
+#### Passo a Passo:
+
+1. **Escolha a cor do badge**: Navegue até a seção de Badges de Visualização e escolha a cor que você prefere.
+2. **Copie a URL do badge**: Encontre a URL correspondente à cor escolhida e copie-a.
+3. **Substitua o nome de usuário**: Na URL copiada, substitua `izabellalbuquerque` pelo seu nome de usuário do GitHub.
+Exemplo: 
+```
+![](https://visitcount.itsvg.in/api?id=seunome&icon=0&color=11)
+```
+4. **Cole no seu projeto**: Use a URL modificada para adicionar o badge ao seu projeto, por exemplo, em seu `README.md`.
+
+
+### Badges de Visualização
+
+| Badge                                                                                                      | URL                                                                                                                        |
+|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=0)](https://visitcount.itsvg.in)   | https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=0                                                       |
+| [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=1)](https://visitcount.itsvg.in)   | https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=1                                                      |
+| [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=2)](https://visitcount.itsvg.in)   | https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=2                                                     |
+| [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=3)](https://visitcount.itsvg.in)   | https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=3                                                      |
+| [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=4)](https://visitcount.itsvg.in)   | https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=4                                                  |
+| [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=5)](https://visitcount.itsvg.in)   | https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=5                                                      |
+| [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=6)](https://visitcount.itsvg.in)   | https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=6                                                   |
+| [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=7)](https://visitcount.itsvg.in)   | https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=7                                                   |
+| [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=8)](https://visitcount.itsvg.in)   | https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=8                                                |
+| [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=9)](https://visitcount.itsvg.in)   | https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=9                                                    |
+| [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=10)](https://visitcount.itsvg.in)  | https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=10                                                   |
+| [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=11)](https://visitcount.itsvg.in)  | https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=11                                                 |
+| [![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=12)](https://visitcount.itsvg.in)  | https://visitcount.itsvg.in/api?id=izabellalbuquerque&color=12                                                |
+
+### Ícones / Logo
+
+| Ícone                | URL de Exemplo                                                                    | Pré-visualização                                                                                       |
+|---------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| padrão              | https://visitcount.itsvg.in/api?id=YOUR_ID&icon=0                           | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=0)                                   |
+| barra               | https://visitcount.itsvg.in/api?id=YOUR_ID&icon=1                           | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=1)                                   |
+| código              | https://visitcount.itsvg.in/api?id=YOUR_ID&icon=2                           | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=2)                                   |
+| cursor              | https://visitcount.itsvg.in/api?id=YOUR_ID&icon=3                           | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=3)                                   |
+| emoji               | https://visitcount.itsvg.in/api?id=YOUR_ID&icon=4                           | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=4)                                   |
+| olho                | https://visitcount.itsvg.in/api?id=YOUR_ID&icon=5                           | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=5)                                   |
+| fogo                | https://visitcount.itsvg.in/api?id=YOUR_ID&icon=6                           | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=6)                                   |
+| coração             | https://visitcount.itsvg.in/api?id=YOUR_ID&icon=7                           | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=7)                                   |
+| raio                | https://visitcount.itsvg.in/api?id=YOUR_ID&icon=8                           | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=8)                                   |
+
+### Formatação de Números
+
+| Formatação | URL de Exemplo                                                                   | Pré-visualização                                                                                  |
+|------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| falso      | https://visitcount.itsvg.in/api?id=YOUR_ID&pretty=false                    | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&pretty=false)                         |
+| verdadeiro  | https://visitcount.itsvg.in/api?id=YOUR_ID&pretty=true                     | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&pretty=true)                          |
+
+### Referência da API
+
+| Consulta | Uso                                                                                          | Exemplo                                                                                   |
+|---------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| id      | Usado para definir seu nome de usuário (obrigatório)                                          | https://visitcount.itsvg.in/api?id=VishwaGauravIn                                       |
+| label   | Usado para mudar o rótulo conforme necessário (opcional)                                      | https://visitcount.itsvg.in/api?id=VishwaGauravIn&label=Contagem%20de%20Visitas      |
+| icon    | Seleciona ícone/logo (opcional) [padrão aleatório]                                            | https://visitcount.itsvg.in/api?id=VishwaGauravIn&icon=1                               |
+| color   | Seleciona a cor favorita (opcional) [padrão aleatório]                                       | https://visitcount.itsvg.in/api?id=VishwaGauravIn&color=0                             |
+| pretty  | Escolhe a formatação de números (opcional) [padrão falso]                                     | https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true                          |
