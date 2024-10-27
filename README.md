@@ -195,7 +195,7 @@ Esses badges ajudam a comunicar rapidamente as tecnologias conhecidas, proporcio
 | IntelliJ               | ![IntelliJ](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000)             | https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000                             |
 | Visual Studio Code     | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) | https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC         |
 
-### Badges de Contagem de Visitas
+### Contagem de Visitas
 
 #### Como Utilizar
 
@@ -244,20 +244,3 @@ Exemplo:
 | fogo                | https://visitcount.itsvg.in/api?id=YOUR_ID&icon=6                           | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=6)                                   |
 | coração             | https://visitcount.itsvg.in/api?id=YOUR_ID&icon=7                           | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=7)                                   |
 | raio                | https://visitcount.itsvg.in/api?id=YOUR_ID&icon=8                           | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&icon=8)                                   |
-
-### Formatação de Números
-
-| Formatação | URL de Exemplo                                                                   | Pré-visualização                                                                                  |
-|------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| falso      | https://visitcount.itsvg.in/api?id=YOUR_ID&pretty=false                    | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&pretty=false)                         |
-| verdadeiro  | https://visitcount.itsvg.in/api?id=YOUR_ID&pretty=true                     | ![](https://visitcount.itsvg.in/api?id=izabellalbuquerque&pretty=true)                          |
-
-### Referência da API
-
-| Consulta | Uso                                                                                          | Exemplo                                                                                   |
-|---------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| id      | Usado para definir seu nome de usuário (obrigatório)                                          | https://visitcount.itsvg.in/api?id=VishwaGauravIn                                       |
-| label   | Usado para mudar o rótulo conforme necessário (opcional)                                      | https://visitcount.itsvg.in/api?id=VishwaGauravIn&label=Contagem%20de%20Visitas      |
-| icon    | Seleciona ícone/logo (opcional) [padrão aleatório]                                            | https://visitcount.itsvg.in/api?id=VishwaGauravIn&icon=1                               |
-| color   | Seleciona a cor favorita (opcional) [padrão aleatório]                                       | https://visitcount.itsvg.in/api?id=VishwaGauravIn&color=0                             |
-| pretty  | Escolhe a formatação de números (opcional) [padrão falso]                                     | https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true                          |
