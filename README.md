@@ -2,6 +2,8 @@
 
 Este repositório contém uma coleção de badges representando várias tecnologias. Os badges são uma ótima forma de mostrar habilidades e as tecnologias utilizadas em projetos no GitHub.
 
+⭐ **Não se esqueça de marcar este repositório com uma estrela para apoiar e acompanhar futuras atualizações!**
+
 ### Como Utilizar os Badges
 
 Para adicionar esses badges a um README, siga os passos abaixo:
